@@ -7,3 +7,5 @@ The following is a graph of the membership function for each of the clusters. It
 ![some text](https://github.com/bahbah94/Fuzzy_C_Means_and_Spectral_Clustering/blob/main/membership_values.png?raw=true)
 
 
+Given below is the result of applying Spectral Clustering:
+![some text](https://github.com/bahbah94/Fuzzy_C_Means_and_Spectral_Clustering/blob/main/spectral_clustering.png?raw=true)
